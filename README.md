@@ -13,7 +13,6 @@
 九九乘法表考試
 ```cpp
 ##step01-2
-```cpp
 金字塔
 #include <stdio.h>
 int main()
@@ -31,9 +30,9 @@ int main()
         printf("ÆN¬[:%d¼Ó  %dªÅ®æ %d¬P\n",i,space,star);
     }
 }
+```cpp
 ##step01-3
 輾轉相除法
-```cpp
 #include <stdio.h>
 int main()
 {
@@ -45,9 +44,9 @@ int main()
     }
     printf("§ä¨ìans:%d", ans);
 }
+```cpp
 
 ##step01-4
-```cpp
 #include<stdio.h>
 int main()
 {
@@ -64,9 +63,9 @@ int main()
     }
     printf("¤¤ªº¬O:%d",b);
 }
+```cpp
 
 ##step01-5
-```cpp
 #include<stdio.h>
 int main()
 {
@@ -83,3 +82,4 @@ int main()
     }
     printf("中的是:%d",b);
 }
+```cpp
