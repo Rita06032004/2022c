@@ -32,7 +32,17 @@ int main()
 
 ##step01-3
 輾轉相除法
-
+#include <stdio.h>
+int main()
+{
+    printf("½Ð¿é¤J2­Ó¼Æ¦r:");
+    int a,b,ans;
+    scanf("%d %d",&a, &b);
+    for(int i=1; i,a; i++){
+        if( a%i==0 && b%i==0) ans=i;
+    }
+    printf("§ä¨ìans:%d", ans);
+}
 ##step01-4
 
 ##step01-5
