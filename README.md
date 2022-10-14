@@ -30,7 +30,6 @@ int main()
         printf("ÆN¬[:%d¼Ó  %dªÅ®æ %d¬P\n",i,space,star);
     }
 }
-```cpp
 ##step01-3
 輾轉相除法
 #include <stdio.h>
