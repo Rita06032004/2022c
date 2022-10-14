@@ -13,8 +13,8 @@
 九九乘法表考試
 ```cpp
 ##step01-2
-金字塔
 ```cpp
+金字塔
 #include <stdio.h>
 int main()
 {
