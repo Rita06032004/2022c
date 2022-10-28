@@ -14,6 +14,7 @@
 ```
 ##step01-2
 金字塔
+
 #include <stdio.h>
 int main()
 {
@@ -34,6 +35,7 @@ int main()
 ```
 ##step01-3
 輾轉相除法
+
 #include <stdio.h>
 int main()
 {
@@ -48,6 +50,7 @@ int main()
 ```cpp
 ```
 ##step01-4
+
 #include<stdio.h>
 int main()
 {
@@ -67,6 +70,7 @@ int main()
 ```cpp
 ```
 ##step01-5
+
 #include<stdio.h>
 int main()
 {
