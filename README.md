@@ -11,8 +11,7 @@
 # Week06
 ##step01-1
 九九乘法表考試
-```cpp
-...
+```
 ##step01-2
 金字塔
 #include <stdio.h>
@@ -31,6 +30,7 @@ int main()
         printf("ÆN¬[:%d¼Ó  %dªÅ®æ %d¬P\n",i,space,star);
     }
 }
+```cpp
 ```
 ##step01-3
 輾轉相除法
@@ -45,6 +45,7 @@ int main()
     }
     printf("§ä¨ìans:%d", ans);
 }
+```cpp
 ```
 ##step01-4
 #include<stdio.h>
@@ -63,6 +64,7 @@ int main()
     }
     printf("¤¤ªº¬O:%d",b);
 }
+```cpp
 ```
 ##step01-5
 #include<stdio.h>
