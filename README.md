@@ -31,8 +31,7 @@ int main()
         printf("ÆN¬[:%d¼Ó  %dªÅ®æ %d¬P\n",i,space,star);
     }
 }
-```cpp
-...
+```
 ##step01-3
 輾轉相除法
 #include <stdio.h>
@@ -46,8 +45,7 @@ int main()
     }
     printf("§ä¨ìans:%d", ans);
 }
-```cpp
-...
+```
 ##step01-4
 #include<stdio.h>
 int main()
@@ -65,8 +63,7 @@ int main()
     }
     printf("¤¤ªº¬O:%d",b);
 }
-```cpp
-...
+```
 ##step01-5
 #include<stdio.h>
 int main()
@@ -84,4 +81,4 @@ int main()
     }
     printf("中的是:%d",b);
 }
-```cpp
+```
