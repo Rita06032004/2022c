@@ -103,7 +103,7 @@ int main()
 ```
 
 ##step01-2
-
+陣列(往回算)
 #include <stdio.h>
 int main()
 {
